@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "airflow": "^0.0.4"
+  }
+}
